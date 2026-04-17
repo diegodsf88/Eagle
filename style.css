@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #d9ecff;
+  color: #1f2d3d;
+}
+
+header {
+  text-align: center;
+  padding: 30px;
+  background: #7fb3ff;
+}
+
+.hero {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 40px;
+}
+
+.bird-card {
+  background: #ffffff;
+  border: 2px solid #4a90e2;
+  padding: 20px;
+  min-width: 180px;
+  border-radius: 14px;
+  text-align: center;
+}
